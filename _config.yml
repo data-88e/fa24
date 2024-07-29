@@ -16,7 +16,7 @@
 title: Data 88E
 description: Economic Models
 author: Eric Van Dusen
-baseurl: '/fa23' # the subpath of your site, e.g. /blog
+baseurl: '/fa24' # the subpath of your site, e.g. /blog
 url: 'https://data-88e.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 
@@ -28,9 +28,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Ed:
-    - 'https://edstem.org/us/courses/42827/discussion/'
+    - 'https://edstem.org/'
   Gradescope:
-    - 'https://www.gradescope.com/courses/573841'
+    - 'https://www.gradescope.com/'
   Textbook:
     - 'https://data-88e.github.io/textbook/content/intro.html'
   Data 8 Python Reference:
