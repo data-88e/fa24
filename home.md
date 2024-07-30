@@ -12,7 +12,7 @@ seo:
 # Data 88E: Economic Models
 
 {: .mb-2 }
-UC Berkeley, Fall 2023
+UC Berkeley, Fall 2024
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
