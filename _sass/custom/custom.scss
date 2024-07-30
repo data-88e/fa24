@@ -28,6 +28,10 @@ summary {
   width: 100%;
 }
 
+.btn-dark-purple {
+  @include btn-color($white, $purple-300);
+}
+
 .main-content-wrap {
   max-width: $content-width;
   margin: auto;
