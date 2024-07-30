@@ -28,8 +28,8 @@ summary {
   width: 100%;
 }
 
-.label-dark-green {
-  @include label-color($white, $green-200);
+.label-dark-green:not(g) {
+  background-color: $green-200);
 }
 
 .main-content-wrap {
