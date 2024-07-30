@@ -28,8 +28,8 @@ summary {
   width: 100%;
 }
 
-.btn-dark-purple {
-  @include btn-color($white, $purple-300);
+.label-dark-green {
+  @include label-color($white, $green-200);
 }
 
 .main-content-wrap {
