@@ -18,13 +18,21 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+      - name: Office Hours
+        start: 2:00 PM
+        end: 4:00 PM
+        location: Warren 101B
   - name: Tuesday
+    events:
+      - name: Office Hours
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Warren 101B
   - name: Wednesday
     events:
       - name: Lecture
         start: 3:00 PM
-        end: 4:59 PM
+        end: 5:00 PM
         location: Latimer 120
-  - name: Thursday
-  - name: Friday
 ---
