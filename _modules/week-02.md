@@ -4,7 +4,8 @@ title: Week 2
 
 Sep 4
 : **2**{: .label .label-yellow} Demand
-:: [Slides](https://docs.google.com/presentation/d/1owz4aeb2YhKowRX9-CuSVJywI72eUV2fP2uDDI6RA2M/edit?usp=sharing){:target="_blank"} 
+
+: [Slides](https://docs.google.com/presentation/d/1owz4aeb2YhKowRX9-CuSVJywI72eUV2fP2uDDI6RA2M/edit?usp=sharing){:target="_blank"} 
 : [Demand Survey](https://forms.gle/ywsE5y3qfmyxKRFE8){:target="_blank"}
 : [Demand Step by Step](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec02%2FDemand_Steps_24.ipynb){:target="_blank"}
 : [Demand Coded](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec02%2Fdemand-curve-Fa24.ipynb){:target="_blank"}
