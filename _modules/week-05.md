@@ -12,6 +12,9 @@ Sep 25
 
 
 : *Reading*: [4.0](https://data-88e.github.io/textbook/content/04-production/index.html), [4.1](https://data-88e.github.io/textbook/content/04-production/production.html), [4.2](https://data-88e.github.io/textbook/content/04-production/shifts.html)
+
+[A Theory of Production by Cobb and Douglas](https://www.jstor.org/stable/1811556)
+
 : **Lab**{: .label .label-dark-green} 
 : **Project**{: .label .label-blue} 
 
