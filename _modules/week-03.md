@@ -11,6 +11,7 @@ Sep 11
 : [3.2 Sympy](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec03%2F3.2-sympy.ipynb){:target="_blank"}
 : [3.3 Cal Strategy](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec03%2F3.3a-california-energy.ipynb){:target="_blank"}
 : [3.3b CAISO data ](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec03%2F3.3b-a-really-hot-tuesday.ipynb){:target="_blank"}
+: [Recording](https://kaltura.berkeley.edu/channel/Data%2B88E%2B-%2BFall%2B24/355165842)
 
 
 

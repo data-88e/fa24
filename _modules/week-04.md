@@ -10,6 +10,7 @@ Sep 18
 : [4.2 Supply Demand](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec04%2Flec04-Supply-Demand-closed.ipynb){:target="_blank"}
 : [4.3 Four Plot](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec04%2Flec04-four-plot-24.ipynb){:target="_blank"}
 
+: [Recording](https://kaltura.berkeley.edu/channel/Data%2B88E%2B-%2BFall%2B24/355165842)
 
 
 
