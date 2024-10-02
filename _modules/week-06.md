@@ -5,6 +5,8 @@ title: Week 6
 Oct 2
 : **6**{: .label .label-yellow} Utility
 
+: [Zoom Link](https://berkeley.zoom.us/j/95729358076){:target="_blank"} 
+
 : [Slides](https://docs.google.com/presentation/d/1WfO4b-vH_guh9Sd4ZjntJpAjAr3efglNKMAONWmIYyM/edit?usp=sharing){:target="_blank"} 
 : [6.1 Sympy Differentiation](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec06%2F6.1-Sympy-Differentiation.ipynb){:target="_blank"}
 : [6.2 3-D Utility](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec06%2F6.2-3D-utility.ipynb){:target="_blank"}
