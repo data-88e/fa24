@@ -12,7 +12,7 @@ Oct 9
 : [Recording](https://kaltura.berkeley.edu/channel/Data%2B88E%2B-%2BFall%2B24/355165842)
 
 : *Reading*: [6.0](https://data-88e.github.io/textbook/content/06-inequality/index.html), [6.1](https://data-88e.github.io/textbook/content/06-inequality/inequality.html), [6.2](https://data-88e.github.io/textbook/content/06-inequality/historical-inequality.html)
-: **Lab**{: .label .label-dark-green}
+: **Lab**{: .label .label-dark-green} [Lab 6](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flab%2Flab06%2Flab06.ipynb)
 
 [//]: # [Slides]()
 [//]: # [Measurements of Inequality Notebook]() &#8226; [Historical Income Equality Notebook]()
