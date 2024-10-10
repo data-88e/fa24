@@ -5,7 +5,7 @@ title: Week 7
 Oct 9
 : **7**{: .label .label-yellow} Inequality
 
-: [Slides](){:target="_blank"} 
+: [Slides](https://docs.google.com/presentation/d/1HZdw1MLtHpCoR6-8WE7EKIMtqqEYZbqa0NHtO5sNzY0/edit?usp=drive_link){:target="_blank"} 
 : [7.1 Measuring Inequality](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec07%2F7.1-inequality.ipynb){:target="_blank"}
 : [7.2 Historical Inequality](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec07%2F7.2-historical-inequality.ipynb){:target="_blank"}
 
