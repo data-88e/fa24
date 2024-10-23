@@ -12,7 +12,8 @@ Oct 23
 : [Recording](https://kaltura.berkeley.edu/channel/Data%2B88E%2B-%2BFall%2B24/355165842)
 
 
-
+: [Evolution of Trust Game ](https://ncase.me/trust/){:target="_blank"}
+: [Radiolab Podcast ](https://radiolab.org/podcast/104010-one-good-deed-deserves-another){:target="_blank"}
 
 
 : *Reading*: [7.0](https://data-88e.github.io/textbook/content/07-game-theory/index.html), [7.1](https://data-88e.github.io/textbook/content/07-game-theory/expected-utility.html#), [7.2](https://data-88e.github.io/textbook/content/07-game-theory/equilibria-oligopolies.html), [7.3](https://data-88e.github.io/textbook/content/07-game-theory/cournot.html), [7.4](https://data-88e.github.io/textbook/content/07-game-theory/bertrand.html), [7.5](https://data-88e.github.io/textbook/content/07-game-theory/python-classes.html)
