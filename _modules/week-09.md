@@ -17,8 +17,8 @@ Oct 23
 
 
 : *Reading*: [7.0](https://data-88e.github.io/textbook/content/07-game-theory/index.html), [7.1](https://data-88e.github.io/textbook/content/07-game-theory/expected-utility.html#), [7.2](https://data-88e.github.io/textbook/content/07-game-theory/equilibria-oligopolies.html), [7.3](https://data-88e.github.io/textbook/content/07-game-theory/cournot.html), [7.4](https://data-88e.github.io/textbook/content/07-game-theory/bertrand.html), [7.5](https://data-88e.github.io/textbook/content/07-game-theory/python-classes.html)
-: **Lab**{: .label .label-dark-green} 
-: **Project**{: .label .label-blue} 
+: **Lab**{: .label .label-dark-green} [Lab 8](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flab%2Flab08%2Flab08.ipynb)
+: **Project**{: .label .label-blue}  [Project 3](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Fproj%2Fproj03%2Fproj03.ipynb)
 
 [//]: # [Slides]() &#8226; [Recording]()
 [//]: # [Notebook]()
