@@ -19,7 +19,7 @@ Oct 30
 
 
 : *Reading*: [8.0](https://data-88e.github.io/textbook/content/08-development/index.html)
-: **Lab**{: .label .label-dark-green}
+: **Lab**{: .label .label-dark-green} [Lab 9](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flab%2Flab09%2Flab09.ipynb)
 
 [//]: # [Slides]() &#8226; [Recording]()
 [//]: # [Notebook]()
