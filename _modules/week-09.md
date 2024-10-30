@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Oct 23
-: **8**{: .label .label-yellow} Game Theory
+: **9**{: .label .label-yellow} Game Theory
 
 : [Slides](https://docs.google.com/presentation/d/1hzzA7JbCpiGjMmTw8g_yjcU7JhsBofGjhSrC6gLhwp8/edit?usp=sharing){:target="_blank"} 
 : [9.1 Iterated Game](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flec%2Flec09%2FlecNB-prisoners-dilemma.ipynb){:target="_blank"}
