@@ -18,7 +18,7 @@ Nov 20
 
 
 : *Reading*: [12.0](https://data-88e.github.io/textbook/content/12-environmental/index.html), [12.1](https://data-88e.github.io/textbook/content/12-environmental/textbook1.html), [12.2](https://data-88e.github.io/textbook/content/12-environmental/KuznetsHypothesis-Copy1.html)
-: **Lab**{: .label .label-dark-green} 
+: **Lab**{: .label .label-dark-green} [Lab 11](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-88e%2Ffa24-materials&branch=main&urlpath=tree%2Ffa24-materials%2Flab%2Flab11%2Flab11.ipynb)
 
 [//]: # [Slides]() &#8226; [Recording]()
 [//]: # [Environmental Kuznets Notebook]() &#8226; [Rosling Time Plots Notebook]() &#8226; [MAC Notebook]()
