@@ -20,3 +20,14 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+
+{% assign readers = site.staffers | where: 'role', 'Reader' %}
+{% assign num_readers = readers | size %}
+{% if num_readers != 0 %}
+## Readers
+
+{% for staffer in readers %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
