@@ -12,6 +12,4 @@ Dec 4
 
 
 
-
- &#8226; [Recording]()
-[//]: # [Course Evaluations ](https://course-evaluations.berkeley.edu/Berkeley/) 
+: # [Course Evaluations ](https://course-evaluations.berkeley.edu/Berkeley/) 
