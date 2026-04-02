@@ -4,6 +4,9 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data88e.org/)
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
